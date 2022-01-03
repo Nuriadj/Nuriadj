@@ -1,6 +1,7 @@
 ### Hi there 👋:robot:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuriadj&show_icons=true&theme=dracula)](https://github.com/Nuriadj/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuriadj&show_icons=true&theme=dracula)](https://github.com/Nuriadj/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuriadj)](https://github.com/Nuriadj/github-readme-stats)
 
 <!--
 **Nuriadj/Nuriadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
