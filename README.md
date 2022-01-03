@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:robot:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuriadj&show_icons=true&theme=dracula)](https://github.com/Nuriadj/github-readme-stats)
 
